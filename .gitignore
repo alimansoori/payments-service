@@ -4,6 +4,8 @@
 /build
 /db
 
+/documentation
+
 # Logs
 logs
 *.log
